@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="40" viewBox="0 0 560 40" role="img" aria-labelledby="title desc">
+  <title id="title">KK-Codex Animation specifications</title>
+  <desc id="desc">1920 by 1080 pixels, 30 frames per second, built with Remotion. Original code licensed under MIT.</desc>
+  <g stroke="#51483e" stroke-width="1.5">
+    <rect x="1" y="2" width="210" height="36" rx="8" fill="#f8efdb"/>
+    <rect x="221" y="2" width="206" height="36" rx="8" fill="#b9e5dd"/>
+    <rect x="437" y="2" width="122" height="36" rx="8" fill="#ffe18a"/>
+  </g>
+  <g fill="#292521" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600" text-anchor="middle">
+    <text x="106" y="26">1080p · 30fps · 30s</text>
+    <text x="324" y="26">Remotion + SVG</text>
+    <text x="498" y="26">MIT</text>
+  </g>
+</svg>
