@@ -1,0 +1,11 @@
+{
+  "passed": true,
+  "results": [
+    "900 frames: finite ordered clip boundaries; parameter changes only while gripped; final values latch at 20/115/50.",
+    "Caption wrong / undo / hold / corrected sequence, with bubbles outside phone and parameters.",
+    "Beat playback crosses the three real boundaries on 650/675/700; begins with sunset and reaches 1320 at 728.",
+    "Coffee source mapping excludes removed range [210,360) and preserves one clip identity.",
+    "Outro: all four clips in order, after entrance completes.",
+    "Revision: music follows fourth clip; blades traverse full track height; zoom visible during drag; bubble tips track head; bounded arm reach; social likes reach 100000."
+  ]
+}

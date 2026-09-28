@@ -1,0 +1,29 @@
+{
+  "video": {
+    "codec_name": "h264",
+    "width": 1920,
+    "height": 1080,
+    "r_frame_rate": "30/1",
+    "nb_read_frames": "900",
+    "duration": "30.000000",
+    "pix_fmt": "yuvj420p"
+  },
+  "audio": {
+    "codec_name": "aac",
+    "sample_rate": "48000",
+    "channels": 2,
+    "duration": "30.058667"
+  },
+  "encodedAudioLoudness": {
+    "input_i": "-14.12",
+    "input_tp": "-1.34",
+    "input_lra": "2.00"
+  },
+  "decodedAudioPeak": 0.8505880236625671,
+  "finiteAudio": true,
+  "blackFrames": [],
+  "minimumMeanFrameLumaApprox": 204.41216073495372,
+  "all900FramesDecoded": true,
+  "sha256": "33747a848676a59989b233b3164e1dafe74b13240582f7b9d08bd5ba990cfa75",
+  "listened": false
+}

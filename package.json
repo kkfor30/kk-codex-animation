@@ -1,0 +1,38 @@
+{
+  "name": "kk-codex-animation",
+  "version": "1.0.0",
+  "private": false,
+  "scripts": {
+    "studio": "remotion studio src/index.ts --no-open",
+    "typecheck": "tsc --noEmit",
+    "render": "node scripts/render.mjs",
+    "check": "tsx scripts/check.ts",
+    "audio": "python scripts/audio.py",
+    "assets": "python scripts/assets.py",
+    "artwork": "node scripts/render.mjs assets",
+    "verify": "python scripts/verify.py"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.529",
+    "@remotion/renderer": "4.0.529",
+    "@remotion/bundler": "4.0.529",
+    "remotion": "4.0.529",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "roughjs": "4.6.6"
+  },
+  "devDependencies": {
+    "@types/react": "19.2.3",
+    "@types/react-dom": "19.2.3",
+    "@types/node": "^22.0.0",
+    "typescript": "^5.9.3",
+    "tsx": "^4.20.6"
+  },
+  "license": "MIT",
+  "description": "A reproducible 30-second hand-drawn video-editing animation built with Remotion.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kkfor30/kk-codex-animation.git"
+  },
+  "author": "kkfor30"
+}

@@ -1,0 +1,47 @@
+[
+  {
+    "path": "character/codey.webp",
+    "url": "https://learn.chatgpt.com/images/codex/app/pets/codex-spritesheet.webp",
+    "httpStatus": 200,
+    "bytes": 770010,
+    "sha256": "431a9680d6480c394a143db33bc3d47a9d90b55da04b7761d28ac7f2a000b203",
+    "size": [
+      1536,
+      1872
+    ],
+    "transparent": true,
+    "format": "WEBP"
+  },
+  {
+    "path": "fonts/MaShanZheng.ttf",
+    "url": "https://fonts.gstatic.com/s/mashanzheng/v18/NaPecZTRCLxvwo41b4gvzkXaRMQ.ttf",
+    "httpStatus": 200,
+    "bytes": 5857052,
+    "sha256": "7aeadc89ef360fd53085a83a08c0062b08dae43d0b70c367c4170bf1f1f53696",
+    "family": "Ma Shan Zheng",
+    "missingChinese": ""
+  },
+  {
+    "path": "fonts/LXGWWenKai.ttf",
+    "url": "https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/fonts/TTF/LXGWWenKai-Regular.ttf",
+    "httpStatus": 200,
+    "bytes": 25575676,
+    "sha256": "39ad71264b588165b469e35e6afb162a378dacd1f95348160240ba9038ac3009",
+    "family": "LXGW WenKai",
+    "missingChinese": ""
+  },
+  {
+    "path": "fonts/MaShanZheng-OFL.txt",
+    "url": "https://raw.githubusercontent.com/google/fonts/main/ofl/mashanzheng/OFL.txt",
+    "httpStatus": 200,
+    "bytes": 4397,
+    "sha256": "d7bdb1cee215b689e23c2f95672a6084c790542170648267a55114103d756a08"
+  },
+  {
+    "path": "fonts/LXGWWenKai-OFL.txt",
+    "url": "https://raw.githubusercontent.com/lxgw/LxgwWenKai/main/OFL.txt",
+    "httpStatus": 200,
+    "bytes": 5171,
+    "sha256": "1a25e35da1031c6c3436fde545bb9cb5aca954e9873afe510c834b8b79bd21a0"
+  }
+]

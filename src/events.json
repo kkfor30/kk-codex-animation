@@ -1,0 +1,20 @@
+{
+ "seed":20260928,"fps":30,"duration":900,"bpm":144,
+ "sections":[0,72,156,264,348,468,600,729,810,900],
+ "land":[93,113,133,153],"musicUnroll":[158,172],"bad":173,"cuts":[194,205],"cutEnd":[201,212],"lift":218,"release":230,"bin":248,"ripple":[249,263],
+ "ballRelease":282,"basket":296,"page":330,
+ "type":[369,377,385,393],"mistake":400,"undo":423,"correct":441,"stamp":450,
+ "flashUp":[478,491],"flashDown":[502,513],"satUp":[529,542],"satDown":[551,563],"zoomUp":[579,591],
+ "beatButton":604,"snap":[614,623,632],"play":635,"beatMap":[650,675,700],"playEnd":728,
+ "exportTouch":739,"dialog":742,"stuck":760,"collision":790,"complete":798,
+ "outro":810,"replay":[823,841,859,877],"zoomPreviewBeats":[584,595],"socialLikes":[842,854,866,885],"socialMilestone":866,
+ "sounds":[
+ [82,"paper"],[93,"land"],[102,"paper"],[113,"land"],[122,"paper"],[133,"land"],[142,"paper"],[153,"land"],
+ [158,"paper"],[172,"click"],[194,"cut"],[205,"cut"],[218,"paper"],[230,"whoosh"],[248,"bin"],[263,"click"],
+ [282,"whoosh"],[296,"basket"],[330,"page"],[359,"paper"],
+ [369,"key"],[377,"key"],[385,"key"],[393,"key"],[423,"undo"],[441,"key"],[450,"stamp"],
+ [478,"slide"],[491,"click"],[502,"slide"],[513,"click"],[529,"slide"],[542,"click"],[551,"slide"],[563,"click"],[579,"slide"],[591,"click"],
+ [604,"button"],[614,"snap"],[623,"snap"],[632,"snap"],[635,"button"],
+ [650,"beat"],[675,"beat"],[700,"beat"],[739,"button"],[790,"thud"],[798,"complete"],[842,"click"],[854,"click"],[866,"complete"],[885,"click"]
+ ]
+}
